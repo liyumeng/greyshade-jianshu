@@ -203,6 +203,9 @@ body {
 		width: 23%;
 		position: fixed;
 		color: $color-gray05;
+		background-image: image-url('left_bg.jpg');
+		background-position: center;
+		background-size: cover;
 		height: 100%;
 		font-size: 1.3em;
 		opacity: $opacity-sidebar;
